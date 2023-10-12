@@ -1,0 +1,127 @@
+/* Importing Google Font 'Poppins' */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+/* Global Styles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Body Styles */
+body {
+    width: 100%;
+    background-color: #212529;
+    color: white;
+}
+
+/* Header Heading Section */
+#heading {
+    margin-top: 100px;
+}
+
+
+/* Header Navbar Styles */
+#nav {
+    background-color: blueviolet;
+}
+
+.offcanvas-header {
+    background-color: blueviolet;
+}
+
+.navbar-toggler:hover {
+    border: 2px solid black;
+}
+
+/* Header Search Bar Styles */
+#search-bar {
+    max-width: 600px;
+}
+
+#search-bar input {
+    height: 50px;
+    border-radius: 20px;
+}
+
+
+/* Meal Card Styles */
+#card {
+    background-color: #6e65ad;
+    padding: 10px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#card img {
+    border-radius: 5%;
+}
+
+
+/* Meal Details Container Styles */
+#meal-details {
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #6e65ad;
+    ;
+}
+
+#meal-header {
+    width: 70%;
+    margin: auto;
+}
+
+#meal-thumbail img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+#details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}
+
+#meal-instruction {
+    margin: auto;
+    text-align: center;
+}
+
+/* Favorites Offcanvas Styles */
+#favourites-body {
+    background-color: #212529;
+}
+
+/* Marquee (Scrolling Images) Styles */
+.marquee-container marquee>img {
+    height: 50px;
+    width: 50px;
+    margin: 0px 10px 0px 5px;
+}
+
+.marquee-container {
+    margin: 80px 0px 30px 0px;
+}
+
+/* Footer Styles */
+.site-footer {
+    height: 62px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.footer-content img {
+    height: 30px;
+}
+
+.footer-content p {
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 0.2;
+
+}
