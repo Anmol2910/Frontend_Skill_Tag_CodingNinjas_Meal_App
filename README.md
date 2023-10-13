@@ -1,6 +1,6 @@
 # Frontend_Skill_Tag_CodingNinjas_Meal_App
 
-Deployment Link :-
+Hosted Link :-
 https://anmol2910.github.io/Frontend_Skill_Tag_CodingNinjas_Meal_App/
 
 
