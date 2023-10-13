@@ -1,5 +1,7 @@
 # Frontend_Skill_Tag_CodingNinjas_Meal_App
 
+Deployment Link :-
+https://anmol2910.github.io/Frontend_Skill_Tag_CodingNinjas_Meal_App/
 
 
 ---
@@ -28,6 +30,7 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 🟠 Pure CSS
 🟠 Vanilla Javascript
 🟠 Bootstrap
+🟠 Some extra links which has been used for Animations, Icons and all. 
 
 ---
 
